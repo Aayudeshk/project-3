@@ -5,10 +5,13 @@ class Main {
     // Then we make another array for the student names.
     String[] studentNames = new String [15];
     // Now we make a for loop for the student names.    
-    for(int seatNumbers <= [14]; )
+    for(int i = 0; i < seatNumbers.length; i++)
     {
-      System.out.print(studentNames[] + seatNumbers[]);
+      System.out.println(seatNumbers[i]);
     }
+    //I Assigned values to student names
+    studentNames[] = {"Jamal","Emily", "Destiny", "Sofia", "Sophia", "Mateo", "Jeremiah", "Jeremy", "Hugh", "Jack", "Abdullah", "Omer", "Dylan", "Amy", "Shu"};
+   
 
   }
 }
