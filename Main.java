@@ -11,7 +11,7 @@ class Main {
     }
     //I Assigned values to student names
     studentNames[] = {"Jamal","Emily", "Destiny", "Sofia", "Sophia", "Mateo", "Jeremiah", "Jeremy", "Hugh", "Jack", "Abdullah", "Omer", "Dylan", "Amy", "Shu"};
-   
+    
 
   }
 }
